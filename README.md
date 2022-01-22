@@ -9,7 +9,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Functionality
 ## The project has a login page which only allows the admin to enter.
-![Alt text](Billing Application/screenshots/login1.PNG?raw=true "Login Page")
+![Alt text](Billing Application/screenshots/login1.png?raw=true "Title")
 ![Alt text](Billing Application/screenshots/login2.png?raw=true "Login Page")
 ## Once the admin is logged-in, the home page of the project comes first.
 ![Alt text](Billing Application/screenshots/app1.png?raw=true "Billing Software")
